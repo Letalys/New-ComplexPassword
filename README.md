@@ -1,14 +1,9 @@
 
-# Powershell : Password Generator
+# New-ComplewPassword
 
-This is my own reusable and easily configurable password generator thanks to its various integrated functions.
-
-On this page, you will find the module to use but also a use case via a user interface in WPF.
+This is my own reusable and easily configurable password generator.
 
 I hope you enjoy it  ;)
-
-
-
 
 ## Using Module [New-ComplexPassword.psm1](./New-ComplexPassword.psm1)
 
